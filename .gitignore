@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+data/rag.db
+data/rag.db-*

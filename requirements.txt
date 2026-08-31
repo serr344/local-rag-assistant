@@ -1,0 +1,5 @@
+foundry-local-sdk-winml
+numpy
+python-docx
+pypdf
+streamlit
